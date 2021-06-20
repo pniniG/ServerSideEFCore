@@ -1,0 +1,12 @@
+C:\Users\pnina\Downloads\web-lesson5\EFCoreDal\EFCoreBll\bin\Debug\netcoreapp3.1\EFCoreBll.deps.json
+C:\Users\pnina\Downloads\web-lesson5\EFCoreDal\EFCoreBll\bin\Debug\netcoreapp3.1\EFCoreBll.dll
+C:\Users\pnina\Downloads\web-lesson5\EFCoreDal\EFCoreBll\bin\Debug\netcoreapp3.1\EFCoreBll.pdb
+C:\Users\pnina\Downloads\web-lesson5\EFCoreDal\EFCoreBll\bin\Debug\netcoreapp3.1\EFCoreDal.dll
+C:\Users\pnina\Downloads\web-lesson5\EFCoreDal\EFCoreBll\bin\Debug\netcoreapp3.1\EFCoreDal.pdb
+C:\Users\pnina\Downloads\web-lesson5\EFCoreDal\EFCoreBll\obj\Debug\netcoreapp3.1\EFCoreBll.csprojAssemblyReference.cache
+C:\Users\pnina\Downloads\web-lesson5\EFCoreDal\EFCoreBll\obj\Debug\netcoreapp3.1\EFCoreBll.AssemblyInfoInputs.cache
+C:\Users\pnina\Downloads\web-lesson5\EFCoreDal\EFCoreBll\obj\Debug\netcoreapp3.1\EFCoreBll.AssemblyInfo.cs
+C:\Users\pnina\Downloads\web-lesson5\EFCoreDal\EFCoreBll\obj\Debug\netcoreapp3.1\EFCoreBll.csproj.CoreCompileInputs.cache
+C:\Users\pnina\Downloads\web-lesson5\EFCoreDal\EFCoreBll\obj\Debug\netcoreapp3.1\EFCoreBll.csproj.CopyComplete
+C:\Users\pnina\Downloads\web-lesson5\EFCoreDal\EFCoreBll\obj\Debug\netcoreapp3.1\EFCoreBll.dll
+C:\Users\pnina\Downloads\web-lesson5\EFCoreDal\EFCoreBll\obj\Debug\netcoreapp3.1\EFCoreBll.pdb
